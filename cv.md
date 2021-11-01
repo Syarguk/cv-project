@@ -14,3 +14,12 @@ Skills:
 * HTML CSS3
 * PHP
 
+Code example 
+```javascript
+function addName(a, b) {
+	let name = a + b;
+	return name;
+}
+
+let name = addName('Ivan', 'Vodkin');
+```
