@@ -1,1 +1,1 @@
-# cv-project
+https://Syarguk.github.io/cv-project/cv
