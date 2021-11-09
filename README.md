@@ -1,1 +1,1 @@
-https://Syarguk.github.io/cv-project/cv
+https://Syarguk.github.io/cv-project/
